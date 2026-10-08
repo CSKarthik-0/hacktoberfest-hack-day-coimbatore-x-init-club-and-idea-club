@@ -1,4 +1,4 @@
-# [Project Name]
+# [ResilientMesh]
 
 > [One-line description of the project and what it does.]
 
