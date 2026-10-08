@@ -261,24 +261,24 @@ This project is licensed under the MIT License.
 
 ## Submission Checklist
 
-- [ ] Project title and description added
-- [ ] All team members listed
-- [ ] Problem clearly explained
-- [ ] Reason for choosing the problem explained
-- [ ] Solution and key features documented
-- [ ] Innovation and differentiation explained
-- [ ] Architecture included
-- [ ] Technical implementation documented
-- [ ] Work completed during the hackathon documented
-- [ ] Team contributions documented
-- [ ] Working application is functional
-- [ ] Live application link added where applicable
-- [ ] Demo video added
-- [ ] AI and open-source components documented
-- [ ] Setup and usage instructions tested
-- [ ] Challenges and learnings documented
-- [ ] Devpost submission completed
-- [ ] Devpost link added
-- [ ] Credits added
-- [ ] License added
-- [ ] Repository is organized and complete
+- [✅] Project title and description added
+- [✅] All team members listed
+- [✅] Problem clearly explained
+- [✅] Reason for choosing the problem explained
+- [ ✅] Solution and key features documented
+- [ ✅] Innovation and differentiation explained
+- [ ✅] Architecture included
+- [ ✅] Technical implementation documented
+- [ ✅] Work completed during the hackathon documented
+- [ ✅] Team contributions documented
+- [ ✅] Working application is functional
+- [ ✅] Live application link added where applicable
+- [ ✅] Demo video added
+- [ ✅] AI and open-source components documented
+- [ ✅] Setup and usage instructions tested
+- [ ✅] Challenges and learnings documented
+- [ ✅] Devpost submission completed
+- [ ✅] Devpost link added
+- [ ✅] Credits added
+- [ ✅] License added
+- [ ✅] Repository is organized and complete
