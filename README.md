@@ -160,7 +160,7 @@ The submitted application should be functional and accessible through the provid
 
 ## Demo Video
 
-**Demo Video:** [Video URL]
+**Demo Video:** https://youtu.be/5DZY78ddo0E
 
 [Provide a short demonstration of the working project, covering the main user flow and important functionality.]
 
