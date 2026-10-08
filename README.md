@@ -1,6 +1,6 @@
-# [ResilientMesh]
+# ResilientMesh
 
-> [One-line description of the project and what it does.]
+> Offline-first emergency field terminal that converts speech and unstructured distress reports into ultra-dense telemetry packets using local Whisper STT and local Gemma 4 inference, transmitted over zero-internet Wi-Fi mesh networks
 
 ## Team
 
