@@ -4,15 +4,15 @@
 
 ## Team
 
-**Team Name:** [Team Name]
+**Team Name:** [Team Astra]
 
 
 | Member | Contribution   |
 | ------ | -------------- |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
+| [CHAGANTI SAI MANIKANTA PAPAYYA CHOWDHARY] | Designed local Ollama/Gemma 4 compression pipeline, model prompt engineering, local Whisper STT integration, and dynamic environment pathing (imageio-ffmpeg). |
+| [ROHAN CHERUKURI] | Network Protocol & Base Station Lead — Built Flask telemetry receiver on Base Station (Laptop B), socket connection handlers, and local LAN IP routing protocols. |
+| [CHAGANTI SESI KARTHIK] | Field UI Engineer — Developed Streamlit frontend interface, state persistence for combined audio/text inputs, and user session management. |
+| [DHARNENDHRAN PIRLA] | Systems & QA Engineer — Conducted offline field testing, batch script automation (Launch Field Unit.bat), latency benchmarking, and network timeout fault tolerance. |
 
 
 ## Problem Statement
